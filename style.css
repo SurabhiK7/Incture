@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(22, 3, 49);
+    color:white;
+}
+h1{
+    font-size:70px;
+    text-align: center;
+}
+nav{
+    text-align:center;
+    display:flex;
+    gap:20px;
+    justify-content:center;
+    color:white;
+}
+div{
+    
+    font-size:larger;
+    display:flex;
+    gap:40px;
+    justify-content:center;
+    text-align:center;
+}
+.whatsapp{
+    background-color: rgb(94, 251, 77);
+}
+.twitter{
+    background-color: aqua;
+}
+.facebook{
+    background-color: blue;
+}
+.insta{
+    background-color: rgb(155, 44, 107);
+}
+h2{
+    text-align:center;
+}
+p{
+    display:flex;
+    justify-content:center ;
+    margin: top 0;
+    margin-bottom: 10;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    float:right;
+    margin: top 0;
+    margin-bottom: 10;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.demo{
+    margin: top 0;
+    margin-bottom: 10;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+li{
+    color:fuchsia;
+    list-style-type:none;
+    border: 1px solid white;
+    border-radius:20px;
+    margin:15px 0;
+    background-color: rgb(158, 161, 163);
+}
